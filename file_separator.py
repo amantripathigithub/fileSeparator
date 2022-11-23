@@ -132,7 +132,7 @@ src2 = tkinter.Entry(root, width=50, textvariable=p1).place(x=280, y=100)
 des2 = tkinter.Entry(root, width=50, textvariable=p2).place(x=280, y=150)
 sub = tkinter.Button(root, text="SUBMIT", command=action, bg="pink", width=15, height=2).place(x=300, y=260)
 progress.place(x=100, y=300)
-
+#ok
 # b=tkinter.Button(root,text="h").place(x=100,y=100)
 # l= tkinter.Label(image=photo).pack(side=tkinter.RIGHT)
 
